@@ -1,1 +1,0 @@
-vl_simplenn_display(net);
